@@ -22,10 +22,11 @@ Esse curso da DIO em parceria com a Avanade está incrível!
 ** por mais um módulo incrível, agora sobre **Conceitos de Processamento de Linguagem Natural com IA**.
 
 
-Frase 	 Sentimento Simulado 	 Frases-chave
-Hoje o dia está maravilhoso, o céu está limpo e azul. 	Positivo 	 dia maravilhoso, céu limpo
-Estou um pouco estressado com o trabalho. 	Negativo 	 estressado, trabalho
-Gosto muito de aprender sobre Inteligência Artificial. 	 Positivo 	aprender, Inteligência Artificial
-A comida estava horrível, não volto mais naquele restaurante. 	Negativo 	 comida horrível, restaurante
-Esse curso da DIO em parceria com a Avanade está incrível! 	 Positivo 	curso, DIO, Avanade
+| Frase | Sentimento Simulado | Frases-chave |
+|------|----------------------|--------------|
+| Hoje o dia está maravilhoso, o céu está limpo e azul. | Positivo | dia maravilhoso, céu limpo |
+| Estou um pouco estressado com o trabalho. | Negativo | estressado, trabalho |
+| Gosto muito de aprender sobre Inteligência Artificial. | Positivo | aprender, Inteligência Artificial |
+| A comida estava horrível, não volto mais naquele restaurante. | Negativo | comida horrível, restaurante |
+| Esse curso da DIO em parceria com a Avanade está incrível! | Positivo | curso, DIO, Avanade |
 
